@@ -7,4 +7,6 @@ Do the same for uberdog and ai for other 2 tabs
 Then edit the start game dev .sh and change the ip to localhost or the number for it
 Then launch it
 (In the future i will create an application for u guys to run to play)
-Windows users: (to do )
+
+Windows users: Run the Following .BAT files located in the root of the folder in the order, ASTRON, Uberdog, then select One or Multiple AI
+Servers to allow the player to get onto the district. Then, click the Game.bat file to launcher a username Command Prompt to sign in.
